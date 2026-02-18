@@ -1,0 +1,11 @@
+C:\personal docs\billing application\src\test\java\com\example\billingapp\BillingApplicationIntegrationTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\repository\PaymentRepositoryTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\repository\CustomerRepositoryTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\controller\CustomerControllerTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\controller\PaymentControllerTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\service\InvoiceServiceTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\controller\DashboardControllerTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\controller\InvoiceControllerTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\service\PaymentServiceTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\repository\InvoiceRepositoryTest.java
+C:\personal docs\billing application\src\test\java\com\example\billingapp\service\CustomerServiceTest.java

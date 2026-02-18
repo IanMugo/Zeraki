@@ -1,0 +1,11 @@
+com\example\billingapp\service\PaymentServiceTest.class
+com\example\billingapp\repository\CustomerRepositoryTest.class
+com\example\billingapp\repository\InvoiceRepositoryTest.class
+com\example\billingapp\service\CustomerServiceTest.class
+com\example\billingapp\controller\DashboardControllerTest.class
+com\example\billingapp\repository\PaymentRepositoryTest.class
+com\example\billingapp\controller\PaymentControllerTest.class
+com\example\billingapp\service\InvoiceServiceTest.class
+com\example\billingapp\BillingApplicationIntegrationTest.class
+com\example\billingapp\controller\CustomerControllerTest.class
+com\example\billingapp\controller\InvoiceControllerTest.class
